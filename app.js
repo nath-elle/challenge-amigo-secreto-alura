@@ -10,7 +10,6 @@ function adicionarAmigo() {
     }
     atualizarTextoNaTela();
     limparCampo();
-    console.log(listaDeAmigos);
 }
 
 
