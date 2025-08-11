@@ -31,7 +31,7 @@ function atualizarTextoNaTela() {
     }
 }
 
-// sorteia um amigo na array aleatoriamente ao clicar no botao sortear
+// mostra o amigo sorteado acessando a array com numero aleatorio ao clicar no botao sortear
 function sortearAmigo() {
     if (listaDeAmigos.length == 0) {
         alert('Preencha a lista de amigos antes de sortear alguém')
@@ -39,7 +39,5 @@ function sortearAmigo() {
         let numeroIndice = parseInt(Math.random() * listaDeAmigos.length);
         let resultado = document.getElementById('resultado');
         resultado.innerHTML = listaDeAmigos[(numeroIndice)]
-        console.log(numeroIndice);
-
     }
 }
