@@ -6,7 +6,9 @@ Este projeto foi desenvolvido com o objetivo de realizar um sorteio de **um amig
 
 </details>
   <div align="center">
-    
+ 
+![Thumbnail](https://github.com/user-attachments/assets/8f53bf9e-d4a9-46d3-ba21-e6d67974915f)
+
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
     
   </div>
@@ -59,3 +61,4 @@ Exemplo prático
 ## 📄 Licença
 
 Este produto é redistribuído com a licença do [MIT](https://opensource.org/licenses/MIT).
+
