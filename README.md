@@ -51,7 +51,8 @@ Exemplo prático
 
 - Feature que permite sortear pares de amigo secreto
 - Mudança que impede que alguém tire a si mesmo
-- Adicionar botão de reinício
+- Reinício automático ao adicionar novos nomes depois de ter sorteado alguém
+- Poder remover nomes da lista
 
 ## 👨‍💻 Author
 
@@ -61,4 +62,5 @@ Exemplo prático
 ## 📄 Licença
 
 Este produto é redistribuído com a licença do [MIT](https://opensource.org/licenses/MIT).
+
 
