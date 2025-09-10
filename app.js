@@ -1,12 +1,13 @@
 let listaDeAmigos = [];
 
 function adicionarAmigo() {
-    campo = document.querySelector('input').value;
-    if (campo == '') {
+    let campo = document.querySelector('input').value.trim;
+    if (campo === '') {
         alert('Por favor, insira um nome válido.');
-    } else {
-        listaDeAmigos.push(campo);
-    }
+        return;
+    } 
+
+    listaDeAmigos.push(campo);
     atualizarTextoNaTela();
     limparCampo();
 }
